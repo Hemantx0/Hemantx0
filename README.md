@@ -1,6 +1,5 @@
 ![👋 Hi, my name is Hemant Sahu. I am B.Tech 1st year student](https://pbs.twimg.com/profile_banners/1987461912054112256/1762684957/1500x500)
 
-![Profile views](https://komarev.com/ghpvc/?username=Hemantx0&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
