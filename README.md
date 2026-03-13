@@ -1,27 +1,25 @@
-![👋 Hi, my name is Hemant Sahu. I am B.Tech 1st year student](https://pbs.twimg.com/profile_banners/1987461912054112256/1762684957/1500x500)
+(https://pbs.twimg.com/profile_banners/1987461912054112256/1762684957/1500x500)
+
+# 💫 About Me:
+<br>Learning Machine Learning fundamentals and practicing Data Structures & Algorithms in C++.<br>Currently working on Machine Learning, Python for Data Science, NumPy, Pandas, and DSA in C++.<br>Beginner-friendly Machine Learning projects, open-source contributions, and data analysis projects.<br>Understanding ML concepts deeply, improving problem-solving skills, and building real-world ML projects.<br>I document everything I learn in Machine Learning on GitHub to track my growth and stay consistent.
 
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Hemant Sahu. I am B.Tech 1st year student
-      </h1>
-    </summary>
-  </ul>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemntx0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantx0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hemntx0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahuhemant7878@gmail.com) 
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="sahuhemant7878@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/hemantsahu_00" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/@TheHemantSahu" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hemantx0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hemantx0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantx0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- **<h3 align="left">🚀 I am in my learning phase and want to learn new things in this field. 
-Current learning PYTHON and basic of Web Dev.</h3>**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-**<h3 align="left">Rapid Fire</h3>**
+---
+[![](https://visitcount.itsvg.in/api?id=Hemantx0&icon=1&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I'm currently learning: **📚 Python and Web Dev basics **
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="28" alt="HTML5" style="margin-right: 4px"></div>
 
