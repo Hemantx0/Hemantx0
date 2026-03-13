@@ -1,7 +1,9 @@
-(https://pbs.twimg.com/profile_banners/1987461912054112256/1762684957/1500x500)
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1987461912054112256/1762684957/1500x500" alt="Banner" width="100%" />
+</p>
 
 # 💫 About Me:
-<br>Learning Machine Learning fundamentals and practicing Data Structures & Algorithms in C++.<br>Currently working on Machine Learning, Python for Data Science, NumPy, Pandas, and DSA in C++.<br>Beginner-friendly Machine Learning projects, open-source contributions, and data analysis projects.<br>Understanding ML concepts deeply, improving problem-solving skills, and building real-world ML projects.<br>I document everything I learn in Machine Learning on GitHub to track my growth and stay consistent.
+<br>Learning Machine Learning fundamentals and practicing Data Structures & Algorithms in C++.<br><br>Currently working on Machine Learning, Python for Data Science, NumPy, Pandas, and DSA in C++.<br><br>Beginner-friendly Machine Learning projects, open-source contributions, and data analysis projects.<br><br>Understanding ML concepts deeply, improving problem-solving skills, and building real-world ML projects.<br><br>I document everything I learn in Machine Learning on GitHub to track my growth and stay consistent.
 
 
 ## 🌐 Socials:
