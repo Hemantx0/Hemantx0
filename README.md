@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hemantx0&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </td>
 <td width="50%">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Hemantx0&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Hemantx0&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 <tr>
