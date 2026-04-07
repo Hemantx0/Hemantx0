@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hemantx0&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" width="100%" />
+      <img src="https://readme-stats-fast.vercel.app/api?username=Hemantx0&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" width="100%" />
     </td>
     <td width="50%">
       <img src="https://streak-stats.demolab.com?user=Hemantx0&theme=tokyonight&hide_border=false&border_radius=10" width="100%" />
@@ -34,10 +34,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantx0&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="100%" />
+      <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Hemantx0&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemantx0&theme=tokyo-night&hide_border=false&radius=10" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemantx0&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
     </td>
   </tr>
 </table>
